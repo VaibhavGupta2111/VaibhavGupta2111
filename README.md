@@ -4,8 +4,9 @@
 
 ###
 
-<p align="left">My name is Vaibhav Gupta and I'm a Web Devloper from Bhopal. I'm a
-Passionate frontend developer seeking exciting opportunities. Let's build something amazing together! 💻✨
+<p align="left">My name is Vaibhav Gupta and I'm a Web Devloper from Bhopal. <br> I'm a
+Passionate frontend developer seeking exciting opportunities. <br>
+  Let's build something amazing together! 💻✨
   <br>
 Open to new projects and collaborations.</p>
 
