@@ -17,10 +17,10 @@ Passionate Web developer from Bhopal seeking exciting opportunities. <br>
   Let's build something amazing by working together! 💻✨
   <br>
   <br>
-✨✨Open to new projects and collaborations.✨✨
+
   
   </p>
-  <h2> ✨✨Open to new projects and collaborations.✨✨</h2>
+  <h4>  ✨✨Open to new projects and collaborations.✨✨ <br> </h4>
 
 ###
 
