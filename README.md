@@ -4,11 +4,7 @@
 
 ###
 
-<p align="left">My name is Vaibhav Gupta and I'm a Web Devloper from Bhopal. <br> I'm a
-Passionate frontend developer seeking exciting opportunities. <br>
-  Let's build something amazing together! 💻✨
-  <br>
-Open to new projects and collaborations.</p>
+<p align="left">My name is Vaibhav Gupta </p>
 
 ###
 
@@ -16,7 +12,13 @@ Open to new projects and collaborations.</p>
 
 ###
 
-<p align="left">✨ bug Creator<br>📚 I'm currently learning nextjs</p>
+<p align="left">  <br> I'm a
+Passionate Web developer from Bhopal seeking exciting opportunities. <br>
+  Let's build something amazing by working together! 💻✨
+  <br>
+✨✨Open to new projects and collaborations.✨✨
+  
+  </p>
 
 ###
 
