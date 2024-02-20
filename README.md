@@ -20,7 +20,7 @@ Passionate Web developer from Bhopal seeking exciting opportunities. <br>
 
   
   </p>
-  <h4>  ✨✨Open to new projects and collaborations.✨✨ <br> </h4>
+  <h3 align="centre">  ✨✨Open to new projects and collaborations.✨✨ <br> </h3>
 
 ###
 
