@@ -28,7 +28,7 @@ Passionate Web developer from Bhopal seeking exciting opportunities. <br>
 
 ###
 
-<div align="left">![IMG_20221016_133949](https://github.com/VaibhavGupta2111/VaibhavGupta2111/assets/112803799/82e81c29-339a-437f-9349-60d25348c01f)
+<div align="left">
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="15" />
