@@ -8,12 +8,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🚀 About me</h2>
 
 ###
 
-<p align="left">  <br> I'm a
-Passionate Web developer from Bhopal seeking exciting opportunities. <br>
+<p align="left">  <br> I'm a Generative AI enthusiast and a Web developer with a passion for creating AI-powered and Web based Applications. I enjoy exploring the latest in artificial intelligence, building interactive tools, and sharing my knowledge with others. <br>
   Let's build something amazing by working together! 💻✨
   <br>
   <br>
